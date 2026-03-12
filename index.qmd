@@ -1,0 +1,28 @@
+Some stuff about me
+
+* <span class="important">A list</span>
+* of things
+
+
+<div class="important">
+
+This text is important.
+
+</div>
+
+
+
+::: {.important}
+
+This text is also important.
+
+:::
+
+::: {.other}
+
+This text is other.
+
+:::
+
+
+
